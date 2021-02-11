@@ -1,2 +1,5 @@
-# openhab-alarm-V2
-Alarm built on openHAB
+# Raspberry pi stack
+
+1. Pi-hole
+2. openHAB v3
+3. Portainer
